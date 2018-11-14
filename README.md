@@ -5,7 +5,8 @@
 
 # Gloom Theme
 
-[Gloom](https://github.com/axellarsstenson/gloom-syntax) is a dark syntax theme available for [Atom](https://github.atom.io/packages/gloom-syntax) and optimized for use with Python.
+[Gloom](https://github.com/axellarsstenson/gloom-syntax) is a dark syntax theme available for [Atom](https://github.atom.io/packages/gloom-syntax) and optimized for use with Python. It was inspired
+by the colors of a night spent in a cartoon swamp.
 
 ## Colors
 
