@@ -5,6 +5,9 @@
   "description": "A dark syntax theme optimized for use with Python.",
   "keywords": [
     "syntax",
+    "gloom",
+    "ui",
+    "dark"
     "theme"
   ],
   "repository": "https://github.com/axellarsstenson/gloom-syntax",

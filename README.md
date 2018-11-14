@@ -3,9 +3,7 @@
   <img src ="https://raw.githubusercontent.com/axellarsstenson/gloom-syntax/master/images/Gloom-01.png">
 </p>
 
-<p align="center">
-  # Gloom Theme
-</p>
+# Gloom Theme
 
 [Gloom](https://github.com/axellarsstenson/gloom-syntax) is a dark syntax theme available for [Atom](https://github.atom.io/packages/gloom-syntax) and optimized for use with Python.
 
@@ -33,8 +31,8 @@ Gloom can be installed through the package/extension/plugin manager by searching
 
 ## Credit
 
-Thanks to ![Tania Rascia](https://github.com/taniarascia/new-moon) for ReadMe formatting. Gloom is coded, optimized, and maintained by Axel Stenson.
+Thanks to [Tania Rascia](https://github.com/taniarascia/new-moon) for ReadMe formatting. Gloom is coded, optimized, and maintained by Axel Stenson.
 
 ## License
 
-Licensed under ![MIT License](https://github.com/axellarsstenson/gloom-syntax/blob/master/LICENSE.md) and open source.
+Licensed under [MIT License](https://github.com/axellarsstenson/gloom-syntax/blob/master/LICENSE.md) and open source.
