@@ -12,7 +12,7 @@ Optimized for front and back end web development, New Moon is the perfect middle
 
 Palette | Hex Code
 --- | ---
-Background | ![#2a2629](https://placehold.it/15/2d2d2d/ffffff?text=+) `#2d2d2d`
+Background | ![#2a2629](https://placehold.it/15/2a2629/ffffff?text=+) `#2a2629`
 Foreground | ![#00fac2](https://placehold.it/15/cccccc/000000?text=+) `#cccccc`
 Comment | ![#6d7b73](https://placehold.it/15/8a8a80/000000?text=+) `#8a8a80`
 Red | ![#f2777a](https://placehold.it/15/f2777a/000000?text=+) `#f2777a`
