@@ -1,7 +1,7 @@
 
 # Gloom Theme
 
-![Glom Icon](https://raw.githubusercontent.com/taniarascia/new-moon/master/images/newmoon.png)
+![Glom Icon](https://raw.githubusercontent.com/axellarsstenson/gloom-syntax/master/images/Gloom-01.png)
 
 [Gloom](https://github.com/axellarsstenson/gloom-syntax) is a dark syntax theme available for [Atom](https://github.atom.io/packages/gloom-syntax)!
 
