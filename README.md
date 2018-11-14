@@ -5,6 +5,8 @@
     <img src ="https://raw.githubusercontent.com/axellarsstenson/gloom-syntax/master/images/Gloom-01.png">
 </p>
 
+# Gloom Theme
+
 [Gloom](https://github.com/axellarsstenson/gloom-syntax) is a dark syntax theme available for [Atom](https://github.atom.io/packages/gloom-syntax)!
 
 ## Colors
