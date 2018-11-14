@@ -1,7 +1,5 @@
-# gloom-syntax
+# Gloom Theme
 
-
-# New Moon Theme
 > Beautiful Syntax Highlighting
 
 ![New Moon Icon](https://raw.githubusercontent.com/taniarascia/new-moon/master/images/newmoon.png)
