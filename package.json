@@ -1,0 +1,15 @@
+{
+  "name": "gloom-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark syntax theme optimized for use with Python.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/axellarsstenson/gloom-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
