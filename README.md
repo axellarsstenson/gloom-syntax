@@ -5,7 +5,7 @@
 
 # Gloom Theme
 
-[Gloom](https://github.com/axellarsstenson/gloom-syntax) is a dark syntax theme available for [Atom](https://github.atom.io/packages/gloom-syntax)!
+[Gloom](https://github.com/axellarsstenson/gloom-syntax) is a dark syntax theme available for [Atom](https://github.atom.io/packages/gloom-syntax) and optimized for use with Python
 
 ## Colors
 
@@ -14,14 +14,11 @@ Palette | Hex Code
 Background | ![#2a2629](https://placehold.it/15/2a2629/ffffff?text=+) `#2a2629`
 Foreground | ![#00fac2](https://placehold.it/15/00fac2/000000?text=+) `#00fac2`
 Comment | ![#6d7b73](https://placehold.it/15/6d7b73/000000?text=+) `#6d7b73`
-Red | ![#f2777a](https://placehold.it/15/f2777a/000000?text=+) `#f2777a`
-Orange | ![#FCA369](https://placehold.it/15/FCA369/000000?text=+) `#fca369`
-Yellow | ![#FFD479](https://placehold.it/15/FFD479/000000?text=+) `#ffd479`
-Light Yellow | ![#ffeea6](https://placehold.it/15/FFEEA6/000000?text=+) `#ffeea6`
-Green | ![#99cc99](https://placehold.it/15/99cc99/000000?text=+) `#99cc99`
-Blue | ![#78AAD6](https://placehold.it/15/78AAD6/000000?text=+) `#78aad6`
-Aqua | ![#76D4D6](https://placehold.it/15/76D4D6/000000?text=+) `#76d4d6`
-Purple | ![#D6ACD6](https://placehold.it/15/D6ACD6/000000?text=+) `#d6acd6`
+Red | ![#fb8292](https://placehold.it/15/fb8292/000000?text=+) `#fb8292`
+Orange | ![#d18f00](https://placehold.it/15/FCA369/000000?text=+) `#d18f00`
+Green | ![#242827](https://placehold.it/15/242827/000000?text=+) `#242827`
+Light Green | ![#00fac2](https://placehold.it/15/00fac2/000000?text=+) `#00fac2`
+Blue | ![#420a84](https://placehold.it/15/420a84/000000?text=+) `#420a84`
 
 ## Screenshot
 
@@ -29,12 +26,9 @@ Purple | ![#D6ACD6](https://placehold.it/15/D6ACD6/000000?text=+) `#d6acd6`
 
 ## Installation
 
-Gloom can be installed through the package/extension/plugin manager by searching for "gloom".
+Gloom can be installed through the package/extension/plugin manager by searching for "gloom" or "gloom-syntax".
 
 ## Credit
 
 Gloom is coded, optimized, and maintained by Axel Stenson.
 
-## License
-
-The code is open source and available under the [MIT License](https://github.com/taniarascia/new-moon/blob/master/LICENSE.md).
