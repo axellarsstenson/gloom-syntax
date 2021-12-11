@@ -14,8 +14,8 @@ Palette | Hex Code
 --- | ---
 Background | ![#2a2629](http://placehold.it/15/2a2629/ffffff?text=+) `#2a2629`
 Comment | ![#6d7b73](http://placehold.it/15/6d7b73/000000?text=+) `#6d7b73`
-Foreground | ![#00fac2](http://placehold.it/15/00fac2/000000?text=+) `#00fac2`
-Green | ![#242827](http://placehold.it/15/242827/000000?text=+) `#242827`
+Foreground | ![#242827](http://placehold.it/15/242827/000000?text=+) `#242827`
+Green | ![#00fac2](http://placehold.it/15/00fac2/000000?text=+) `#00fac2`
 Red | ![#fb8292](http://placehold.it/15/fb8292/000000?text=+) `#fb8292`
 Orange | ![#d18f00](http://placehold.it/15/FCA369/000000?text=+) `#d18f00`
 Redish Purple | ![#830433](http://placehold.it/15/830433/000000?text=+) `#830433`
